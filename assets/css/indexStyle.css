@@ -1,6 +1,8 @@
 body {
   font-size: 25px;
-  color: blue;
-  background-color: #de6868;
+  color: #888551;
+  background-color: #E7F3FF;
   text-align: center;
+  border-radius: 100px;
+  letter-spacing: 2px;
 }
