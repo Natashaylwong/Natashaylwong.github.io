@@ -1,0 +1,15 @@
+body {
+  background-image: url("/picture/background.jpg");
+  background-color: #F08080;
+  font-family: "Palatino Linotype", "Book Antiqua"
+}
+#center-title {
+  height: 1200px;
+  width: 1200px;
+
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  margin-top: -100px;
+  margin-left: : -100px;
+}
